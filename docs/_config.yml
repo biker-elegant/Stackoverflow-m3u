@@ -1,0 +1,9 @@
+title: Stackoverflow-m3u
+baseurl: "/Stackoverflow-m3u"
+url: "https://biker-elegant.github.io"
+theme: minima
+exclude:
+ - feed.xml
+ - robots.txt
+ - README.md
+ - minima-social-icons.svg
