@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:1,file_example_MP3_700KB.mp3
-https://biker-elegant.github.io/Stackoverflow-m3u/static_files/file_example_MP3_700KB.mp3
-#EXTINF:2,file_example_MP3_1MG.mp3
-https://biker-elegant.github.io/Stackoverflow-m3u/static_files/file_example_MP3_1MG.mp3
-#EXTINF:3,file_example_MP3_2MG.mp3
-https://biker-elegant.github.io/Stackoverflow-m3u/static_files/file_example_MP3_2MG.mp3
+#EXTINF:1,1.mp3
+https://biker-elegant.github.io/Stackoverflow-m3u/static_files/1.mp3
+#EXTINF:2,2.mp3
+https://biker-elegant.github.io/Stackoverflow-m3u/static_files/2.mp3
+#EXTINF:3,3.mp3
+https://biker-elegant.github.io/Stackoverflow-m3u/static_files/3.mp3
